@@ -1,4 +1,4 @@
-# 🩺 End-to-End Healthcare Data Analysis Portfolio
+# 🩺 End-to-End Healthcare Data Analysis Project
 
 This portfolio project demonstrates a full-cycle data analysis workflow applied to healthcare data, using **Excel**, **MySQL**, **Power BI**, and **Tableau**. It showcases my ability to extract, clean, analyze, and visualize data across multiple platforms—delivering actionable insights and interactive dashboards.
 
