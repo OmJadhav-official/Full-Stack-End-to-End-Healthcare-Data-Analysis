@@ -73,7 +73,7 @@ Full-Stack-End-to-End-Healthcare-Data-Analysis/
 ![Power BI Dashboard](https://github.com/OmJadhav-official/Full-Stack-End-to-End-Healthcare-Data-Analysis/blob/main/Images/Powerbi%20DB.png)
 
 ### Tableau Dashboard
-![Tableau Dashboard](Images/Tableau DB.png)
+![Tableau Dashboard](https://github.com/OmJadhav-official/Full-Stack-End-to-End-Healthcare-Data-Analysis/blob/main/Images/Tableau%20DB.png)
 
 ---
 
