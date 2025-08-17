@@ -67,7 +67,7 @@ Full-Stack-End-to-End-Healthcare-Data-Analysis/
 ## 📸 Dashboard Previews
 
 ### Excel Dashboard
-![Excel Dashboard](Images/Excel DB.png)
+![Excel Dashboard](https://github.com/OmJadhav-official/Full-Stack-End-to-End-Healthcare-Data-Analysis/blob/main/Images/Excel%20DB.png)
 
 ### Power BI Dashboard
 ![Power BI Dashboard](Images/PowerBI DB.png)
