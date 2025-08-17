@@ -79,7 +79,7 @@ Full-Stack-End-to-End-Healthcare-Data-Analysis/
 
 ## 📄 Documentation
 
-A detailed project report is available in the `Documentation/` folder, outlining:
+A detailed project report is available in the `Report/` folder, outlining:
 - Data cleaning steps
 - SQL query logic
 - Dashboard design choices
