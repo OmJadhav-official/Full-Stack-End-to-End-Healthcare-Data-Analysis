@@ -51,7 +51,8 @@ This portfolio project demonstrates a full-cycle data analysis workflow applied 
 ---
 
 ## 📁 Repository Structure
-Full-Stack-End-to-End-Healthcare-Data-Analysis/ │
+Full-Stack-End-to-End-Healthcare-Data-Analysis/ 
+│
 ├── Dataset/ # Raw healthcare data files (Excel/CSV)
 ├── Documentation/ # Project summary and methodology 
 ├── Excel/ # Excel dashboard and analysis 
