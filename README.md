@@ -51,16 +51,17 @@ This portfolio project demonstrates a full-cycle data analysis workflow applied 
 ---
 
 ## 📁 Repository Structure
-Full-Stack-End-to-End-Healthcare-Data-Analysis/ 
+Full-Stack-End-to-End-Healthcare-Data-Analysis/
 │
-├── Dataset/ # Raw healthcare data files (Excel/CSV)
-├── Documentation/ # Project summary and methodology 
-├── Excel/ # Excel dashboard and analysis 
-├── Images/ # Dashboard screenshots for README 
-├── PowerBI/ # Power BI dashboard (.pbix) 
-├── SQL/ # SQL scripts for data cleaning and analysis 
-├── Tableau/ # Tableau workbook (.twb or .twbx) 
-└── README.md # Project overview and instructions
+├── Dataset/           # Raw healthcare data files (Excel/CSV)
+├── Documentation/     # Project summary, methodology, and report
+├── Excel/             # Excel dashboard and analysis files
+├── Images/            # Dashboard screenshots for README and report
+├── PowerBI/           # Power BI dashboard (.pbix)
+├── SQL/               # SQL scripts for data cleaning and transformation
+├── Tableau/           # Tableau workbook (.twb/.twbx)
+├── README.md          # Project overview, instructions, and dashboard previews
+
 
 ---
 
