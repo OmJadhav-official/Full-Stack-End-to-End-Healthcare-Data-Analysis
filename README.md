@@ -61,3 +61,49 @@ Full-Stack-End-to-End-Healthcare-Data-Analysis/
 ├── SQL/ # SQL scripts for data cleaning and analysis 
 ├── Tableau/ # Tableau workbook (.twb or .twbx) 
 └── README.md # Project overview and instructions
+
+---
+
+## 📸 Dashboard Previews
+
+### Excel Dashboard
+![Excel Dashboard](Images/Excel DB.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](Images/PowerBI DB.png)
+
+### Tableau Dashboard
+![Tableau Dashboard](Images/Tableau DB.png)
+
+---
+
+## 📄 Documentation
+
+A detailed project report is available in the `Documentation/` folder, outlining:
+- Data cleaning steps
+- SQL query logic
+- Dashboard design choices
+- Key insights and recommendations
+
+---
+
+## 🎯 Why This Project Matters
+
+This project reflects my ability to:
+- Work across multiple platforms with consistency
+- Build reproducible and scalable analysis pipelines
+- Communicate insights visually and interactively
+- Apply technical skills to real-world healthcare data
+
+---
+
+## 📬 Contact
+
+Feel free to connect or reach out for collaboration, feedback, or opportunities:
+
+- **LinkedIn**: [https://www.linkedin.com/in/om-jadhav-296575174/]
+- **Email**: [omjadhav316@gmail.com]
+
+---
+
+> 💡 *Built with integrity, clarity, and a passion for data-driven decision-making.*
